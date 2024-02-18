@@ -1,2 +1,2 @@
 Created By Mohammad Dayarneh.
- Cs Student At Bau University.
+Computer Science Student At Bau University.
